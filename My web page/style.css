@@ -1,0 +1,32 @@
+.Copa{
+    color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+
+#equipo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
+#cuerpo{
+    font-family:cursive red;
+}
+
+#paises{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: gray;
+}
+.grupo{
+     background-color: gold;
+     font-family:cursive        
+}
